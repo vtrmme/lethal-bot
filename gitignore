@@ -1,0 +1,13 @@
+# Datos locales — nunca subir esto a GitHub
+data.json
+
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
